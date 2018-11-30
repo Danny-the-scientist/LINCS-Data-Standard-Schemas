@@ -36,7 +36,7 @@ Additionally, efforts relating to controlled vocabularies and terms will enable 
 
 1. [LINCS Data Standards](http://www.lincsproject.org/LINCS/data/standards) - current available format of LINCS reagent metadata standards, PDF format
 2. [Key Ontologies](https://docs.google.com/document/d/1CUwaYE6FgqXKUeuI9YpmY2He54rmxC_t8cG3UUKlbrY/edit) - rough hierarchy of ontologies utilized for initial object and property mapping of LINCS data standards
-3. Reagent Ontology Linkages - individial Google Sheet pages generated for all LINCS reagents reflecting connectivity to ontologies outlined above: Includes class matches for controlled vocabulary, property/object annotation mapping, and LINCS-Defined controlled vocabulary, if relevant.  See Content 2 for more info on the development of these documents.
+3. Reagent Ontology Linkages - individial Google Sheet pages generated for all LINCS reagents reflecting connectivity to ontologies outlined above: Includes class matches for controlled vocabulary, property/object annotation mapping, and LINCS-Defined controlled vocabulary, if relevant.  See Content 1 for more info.
 	1. [Cell Lines](https://docs.google.com/spreadsheets/d/1rRb5C7JIj8DG09_VcMR_SNQkutheEjN02x1TMeiwI08/edit#gid=0)
 	2. [Primary Cells](https://docs.google.com/spreadsheets/d/19ywtX048gUV9uTDDUvGd7UdVQPYxN4Bsv7bxsylhEFc/edit#gid=0)
 	3. [Differentiated Cells](https://docs.google.com/spreadsheets/d/1xEUsPss28RclqZbmM-MtZvBfm2z9wwLNPkcT6L_DNoo/edit#gid=0)
