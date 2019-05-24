@@ -1,4 +1,5 @@
 # FAIR Compliant JSON Data Schemas for LINCS Data Standards
+UPDATED 5/24/2019 - Updated schemas focused on schema.org and bioschemas.org terminologies
 
 **Purpose** - This page serves to host information relating to the LINCS DCIC effort to define its [Data Standards](http://www.lincsproject.org/LINCS/data/standards) in JSON-LD format in order to specifically improve machine readability, accessibility, and interoperability of LINCS data and metadata.
 
@@ -36,16 +37,16 @@ Additionally, efforts relating to controlled vocabularies and terms will enable 
 
 1. [LINCS Data Standards](http://www.lincsproject.org/LINCS/data/standards) - current available format of LINCS reagent metadata standards, PDF format
 2. [Key Ontologies](https://docs.google.com/document/d/1CUwaYE6FgqXKUeuI9YpmY2He54rmxC_t8cG3UUKlbrY/edit) - rough hierarchy of ontologies utilized for initial object and property mapping of LINCS data standards
-3. Reagent Ontology Linkages - individial Google Sheet pages generated for all LINCS reagents reflecting connectivity to ontologies outlined above: Includes class matches for controlled vocabulary, property/object annotation mapping, and LINCS-Defined controlled vocabulary, if relevant.  See Content 1 for more info.
-	1. [Cell Lines](https://docs.google.com/spreadsheets/d/1rRb5C7JIj8DG09_VcMR_SNQkutheEjN02x1TMeiwI08/edit#gid=0)
-	2. [Primary Cells](https://docs.google.com/spreadsheets/d/19ywtX048gUV9uTDDUvGd7UdVQPYxN4Bsv7bxsylhEFc/edit#gid=0)
-	3. [Differentiated Cells](https://docs.google.com/spreadsheets/d/1xEUsPss28RclqZbmM-MtZvBfm2z9wwLNPkcT6L_DNoo/edit#gid=0)
-	4. [iPS Cells](https://docs.google.com/spreadsheets/d/1hAzSOHjdJKUHvKrAMIDSIaeeuuBcVsQCyopY_mWN71U/edit#gid=0)
-	5. [ES Cells](https://docs.google.com/spreadsheets/d/1toVh40GcxJFFHtJtCtbxivupvTbw_D0ubWpPBB8Z5Ss/edit#gid=0)
-	6. [Small Molecules](https://docs.google.com/spreadsheets/d/1WVZlf78S4xHIyi7T4g_PKGObv4aNImsJxqmTA0Nc9m4/edit#gid=0)
-	7. [Antibody Reagents](https://docs.google.com/spreadsheets/d/1Q4nlP3RBNWVo56NXGhnGaajvwoIAgn9ThjenPehz5JU/edit#gid=0)
-	8. [Protein Reagents](https://docs.google.com/spreadsheets/d/1cHdCNmFmK8u4gb49yElcFlt4ZJklyix7NaHWdUU37es/edit#gid=0)
-	9. [Nucleic Acid Reagents](https://docs.google.com/spreadsheets/d/1mMWIP0AA7LcZ1ruGd3GIBfXO9IwBNepxzgr0gXOFKg4/edit#gid=0)
+3. Reagent Ontology Linkages - individial Google Sheet pages generated for all LINCS reagents reflecting connectivity to ontologies outlined above: Includes class matches for controlled vocabulary, property/object annotation mapping, and LINCS-Defined controlled vocabulary, if relevant, as well as associations to schema/bioschemas terminologies and general styling.  See Content 1 for more info.
+	1. [Cell Lines](https://docs.google.com/spreadsheets/d/11GyXGX5XfdvHJN5d_Da_OtwcErc8ig74Y6-nOB2ObQ8/edit#gid=0)
+	2. [Primary Cells](https://docs.google.com/spreadsheets/d/1Rebdnpi0h9qSFOqFfFImoRDX8WASYXWCVl6s18k4Qw8/edit#gid=0)
+	3. [Differentiated Cells](https://docs.google.com/spreadsheets/d/1dUmRRX9k0N7J2pvI9UpZfHgkXdB0lKczb70_MnHOFKY/edit#gid=0)
+	4. [iPS Cells](https://docs.google.com/spreadsheets/d/1-puvfhd67h2fNygL9RQHjLtPjlXUDj1-Xnan69ozOu0/edit#gid=0)
+	5. [ES Cells](https://docs.google.com/spreadsheets/d/1OAUBeuD4MWMJBetUVNXIADA9Mz6csJHPruzO4uBXCyA/edit#gid=0)
+	6. [Small Molecules](https://docs.google.com/spreadsheets/d/16gOYATQ1KktutIiY7iv4BmqOGEIIAIviDyZ-3iLpiaI/edit#gid=0)
+	7. [Antibody Reagents](https://docs.google.com/spreadsheets/d/1_3sXm_njUP3oUo6U3EMBL4gt6Z3lvBTT8xmi-R170QA/edit#gid=0)
+	8. [Protein Reagents](https://docs.google.com/spreadsheets/d/1BaYJi0CPDkrvsbVfKYMovmdtFxSwfud8N5mRLpsDY64/edit#gid=0)
+	9. [Nucleic Acid Reagents](https://docs.google.com/spreadsheets/d/1ArDLqK4kE4sOxSu1GonvG37UsRQWvnOjwLBeCwmR4vM/edit#gid=0)
 4. JSON-LD Schemas - Processed formats of Content 3 into machine-readable schemas
 5. JSON conversion code - source code and resultant JAR utilize to produce JSON-LD schemas
 6. [LINCS Namespace Starter](https://docs.google.com/document/d/1OArBGePzhKZ2DhlsJTilN1VG-yhbjRH8_7Zalr1LSZo/edit) - pre-OWL list of elements, axioms, and relations for the LINCS Namespace Ontology
