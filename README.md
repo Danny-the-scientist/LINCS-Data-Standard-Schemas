@@ -1,4 +1,5 @@
 # FAIR Compliant JSON Data Schemas for LINCS Data Standards
+UPDATED 7/3/2019 - Uploaded initial dataset schema based on new fields and JSON format
 UPDATED 5/24/2019 - Updated schemas focused on schema.org and bioschemas.org terminologies
 
 **Purpose** - This page serves to host information relating to the LINCS DCIC effort to define its [Data Standards](http://www.lincsproject.org/LINCS/data/standards) in JSON-LD format in order to specifically improve machine readability, accessibility, and interoperability of LINCS data and metadata.
@@ -47,6 +48,7 @@ Additionally, efforts relating to controlled vocabularies and terms will enable 
 	7. [Antibody Reagents](https://docs.google.com/spreadsheets/d/1_3sXm_njUP3oUo6U3EMBL4gt6Z3lvBTT8xmi-R170QA/edit#gid=0)
 	8. [Protein Reagents](https://docs.google.com/spreadsheets/d/1BaYJi0CPDkrvsbVfKYMovmdtFxSwfud8N5mRLpsDY64/edit#gid=0)
 	9. [Nucleic Acid Reagents](https://docs.google.com/spreadsheets/d/1ArDLqK4kE4sOxSu1GonvG37UsRQWvnOjwLBeCwmR4vM/edit#gid=0)
-4. JSON-LD Schemas - Processed formats of Content 3 into machine-readable schemas
-5. JSON conversion code - source code and resultant JAR utilize to produce JSON-LD schemas
-6. [LINCS Namespace Starter](https://docs.google.com/document/d/1OArBGePzhKZ2DhlsJTilN1VG-yhbjRH8_7Zalr1LSZo/edit) - pre-OWL list of elements, axioms, and relations for the LINCS Namespace Ontology
+4. [Dataset Specifications](https://docs.google.com/spreadsheets/d/1ZlS-_tsOa1rtJFSJQHACEAPDwAFtftNrgi2xCDlGX8Y/edit#gid=0) - dataset metadata collected, as defined my LINCS specifications and published as a Google Doc and subsequently as a JSON schema; as described above.
+5. JSON-LD Schemas - Processed formats of Content 3 into machine-readable schemas
+6. JSON conversion code - source code and resultant JAR utilize to produce JSON-LD schemas
+7. [LINCS Namespace Starter](https://docs.google.com/document/d/1OArBGePzhKZ2DhlsJTilN1VG-yhbjRH8_7Zalr1LSZo/edit) - pre-OWL list of elements, axioms, and relations for the LINCS Namespace Ontology
