@@ -1,4 +1,8 @@
 # FAIR Compliant JSON Data Schemas for LINCS Data Standards
+
+1/4/2022 - This Repo (fork) was built to feed a publication of taking csv data standards and converting them into JSON and, with data, JSON-LD schemas. Unfortunately, the paper was completed, but never went through publishing due to obligations of the PI.
+
+
 UPDATED 7/3/2019 - Uploaded initial dataset schema based on new fields and JSON format
 UPDATED 5/24/2019 - Updated schemas focused on schema.org and bioschemas.org terminologies
 
